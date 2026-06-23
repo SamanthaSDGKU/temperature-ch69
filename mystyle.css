@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+    font-family: arial;
+}
+.container{
+    width:30%;
+    background-color: gray;
+}
+.hot{
+    background-color: rgb(255, 179, 179);
+}
